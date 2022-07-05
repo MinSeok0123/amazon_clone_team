@@ -2,4 +2,4 @@
 
 * 아마존 클론코딩
 * 완벽한 클론코딩
-* https://mytodolistms.netlify.app/
+* https://minseok0123.github.io/amazon_clone_team/
