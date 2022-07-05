@@ -117,15 +117,15 @@ function Home() {
           className="product product__show"
           title="Hi, MinSeok"
           subtitle="Recommendations for you"
-          profileImg="/images/product-profile.jfif"
+          profileImg="./images/product-profile.jfif"
           productInfo={[
-            { imgSrc: "/images/product1-1.jfif", imgDesc: "Your Orders" },
-            { imgSrc: "/images/product1-2.jfif", imgDesc: "Electronics" },
+            { imgSrc: "./images/product1-1.jfif", imgDesc: "Your Orders" },
+            { imgSrc: "./images/product1-2.jfif", imgDesc: "Electronics" },
             {
-              imgSrc: "/images/product1-3.jfif",
+              imgSrc: "./images/product1-3.jfif",
               imgDesc: "Computers & Accessories",
             },
-            { imgSrc: "/images/product1-4.jfif", imgDesc: "Home & Kitchen" },
+            { imgSrc: "./images/product1-4.jfif", imgDesc: "Home & Kitchen" },
           ]}
         />
         <Product
@@ -133,15 +133,15 @@ function Home() {
           title="Shop by Category"
           productInfo={[
             {
-              imgSrc: "/images/product2-1.jpg",
+              imgSrc: "./images/product2-1.jpg",
               imgDesc: "Computers & Accessories",
             },
-            { imgSrc: "/images/product2-2.jpg", imgDesc: "Video Games" },
+            { imgSrc: "./images/product2-2.jpg", imgDesc: "Video Games" },
             {
-              imgSrc: "/images/product2-3.jpg",
+              imgSrc: "./images/product2-3.jpg",
               imgDesc: "Baby",
             },
-            { imgSrc: "/images/product2-4.jpg", imgDesc: "Toys & Games" },
+            { imgSrc: "./images/product2-4.jpg", imgDesc: "Toys & Games" },
           ]}
           imageInfo=""
           linkMsg="Shop now"
@@ -149,37 +149,37 @@ function Home() {
         <Product
           className="product product__show"
           title="Shop top categories"
-          productInfo={["/images/product3.jpg"]}
+          productInfo={["./images/product3.jpg"]}
           linkMsg="See more"
         />
         <Product
           className="product product__show"
           title="Deals & Promotions"
-          productInfo={["/images/product4.jpg"]}
+          productInfo={["./images/product4.jpg"]}
           linkMsg="Shop now"
         />
         <Product
           className="product product product__show"
           title="Get fit at home"
-          productInfo={["/images/product5.jpg"]}
+          productInfo={["./images/product5.jpg"]}
           linkMsg="Explore now"
         />
         <Product
           className="product product__show"
           title="AmazonBasics"
-          productInfo={["/images/product6.jpg"]}
+          productInfo={["./images/product6.jpg"]}
           linkMsg="See more"
         />
         <Product
           className="product product__hide"
           title="Computers & Accessories"
-          productInfo={["/images/product7.jpg"]}
+          productInfo={["./images/product7.jpg"]}
           linkMsg="Shop now"
         />
         <Product
           className="product product__hide"
           title="Electronics"
-          productInfo={["/images/product8.jpg"]}
+          productInfo={["./images/product8.jpg"]}
           linkMsg="See more"
         />
       </ol>
