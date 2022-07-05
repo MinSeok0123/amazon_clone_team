@@ -49,10 +49,10 @@ function Header() {
               Arts & Craft
             </option>
             <option className="header__option" value="automotive">
-              Automotive
+              automotive
             </option>
             <option className="header__option" value="baby">
-              Baby
+              baby
             </option>
             <option className="header__option" value="beauty-personal">
               Beauty & Personal Care
@@ -62,42 +62,6 @@ function Header() {
             </option>
             <option className="header__option" value="computers">
               Computers
-            </option>
-            <option className="header__option" value="Deals">
-              Deals
-            </option>
-            <option className="header__option" value="Digital Music">
-              Digital Music
-            </option>
-            <option className="header__option" value="Electronics">
-              Electronics
-            </option>
-            <option className="header__option" value="Girls' Fashion">
-              Girls' Fashion
-            </option>
-            <option className="header__option" value="Health & HouseHold">
-              Health & HouseHold
-            </option>
-            <option className="header__option" value="Home & Kitchen">
-              Home & Kitchen
-            </option>
-            <option className="header__option" value="Industrial & Scientific">
-              Industrial & Scientific
-            </option>
-            <option className="header__option" value="Kindle Store">
-              Kindle Store
-            </option>
-            <option className="header__option" value="Luggage">
-              Luggage
-            </option>
-            <option className="header__option" value="Men's Fashion">
-              Men's Fashion
-            </option>
-            <option className="header__option" value="Movies & TV">
-              Movies & TV
-            </option>
-            <option className="header__option" value="Music, CDs & Vinyl">
-              Music, CDs & Vinyl
             </option>
           </Select>
 
@@ -126,7 +90,7 @@ function Header() {
           <Link to="/checkout" className="header__link">
             <div className="header__shoppingCart header__linkblock">
               <img className="header__cartImg" src={sprite} alt="cart"></img>
-              <span className="header__cartNum">7</span>
+              <span className="header__cartNum">0</span>
               <span>
                 <b>Cart</b>
               </span>
