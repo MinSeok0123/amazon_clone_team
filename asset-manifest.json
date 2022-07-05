@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/amazon_clone_team/static/css/main.05a2f721.chunk.css",
+    "main.js": "/amazon_clone_team/static/js/main.3cd0b760.chunk.js",
+    "main.js.map": "/amazon_clone_team/static/js/main.3cd0b760.chunk.js.map",
+    "runtime-main.js": "/amazon_clone_team/static/js/runtime-main.0727750a.js",
+    "runtime-main.js.map": "/amazon_clone_team/static/js/runtime-main.0727750a.js.map",
+    "static/js/2.67ea05a1.chunk.js": "/amazon_clone_team/static/js/2.67ea05a1.chunk.js",
+    "static/js/2.67ea05a1.chunk.js.map": "/amazon_clone_team/static/js/2.67ea05a1.chunk.js.map",
+    "static/js/3.d1fa8d23.chunk.js": "/amazon_clone_team/static/js/3.d1fa8d23.chunk.js",
+    "static/js/3.d1fa8d23.chunk.js.map": "/amazon_clone_team/static/js/3.d1fa8d23.chunk.js.map",
+    "index.html": "/amazon_clone_team/index.html",
+    "static/css/main.05a2f721.chunk.css.map": "/amazon_clone_team/static/css/main.05a2f721.chunk.css.map",
+    "static/js/2.67ea05a1.chunk.js.LICENSE.txt": "/amazon_clone_team/static/js/2.67ea05a1.chunk.js.LICENSE.txt",
+    "static/media/background1.18921740.jpg": "/amazon_clone_team/static/media/background1.18921740.jpg",
+    "static/media/background2.a61b629a.jpg": "/amazon_clone_team/static/media/background2.a61b629a.jpg",
+    "static/media/background3.07344826.jpg": "/amazon_clone_team/static/media/background3.07344826.jpg",
+    "static/media/background4.da68c766.jpg": "/amazon_clone_team/static/media/background4.da68c766.jpg",
+    "static/media/background5.6f0b4c6a.jpg": "/amazon_clone_team/static/media/background5.6f0b4c6a.jpg",
+    "static/media/sprite.7ce4d67e.png": "/amazon_clone_team/static/media/sprite.7ce4d67e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0727750a.js",
+    "static/js/2.67ea05a1.chunk.js",
+    "static/css/main.05a2f721.chunk.css",
+    "static/js/main.3cd0b760.chunk.js"
+  ]
+}
